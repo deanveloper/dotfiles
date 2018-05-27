@@ -1,0 +1,1 @@
+/home/24G/.config/fisherman/getopts/getopts.fish

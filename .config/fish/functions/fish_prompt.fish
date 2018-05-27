@@ -1,8 +1,8 @@
 #!/usr/local/bin/fish
 
 function fish_prompt
-	set_color -b brgreen magenta
-	echo -n "><>"
+	set_color -b brblue black
+	echo -n " ><> "
 	set_color -b normal $fish_color_cwd
 	echo -n " "(prompt_pwd)
 
