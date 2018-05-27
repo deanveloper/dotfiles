@@ -36,4 +36,4 @@ SET fish_pager_color_prefix:white\x1e\x2d\x2dbold\x1e\x2d\x2dunderline
 SET fish_pager_color_progress:brwhite\x1e\x2d\x2dbackground\x3dcyan
 SET fish_plugins:getopts
 SET fish_user_paths:/home/24G/bin\x1e/usr/lib/go\x2d1\x2e10/bin
-SET fisher_dependency_count:bass\x1egetopts
+SET fisher_dependency_count:getopts
