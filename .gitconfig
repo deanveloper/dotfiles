@@ -1,0 +1,16 @@
+[user]
+        email = deanvelopermn@gmail.com
+        name = dean
+        signingkey = DB8AF84A
+
+
+[push]
+        default = simple
+[init]
+        defaultBranch = main
+[commit]
+        gpgsign = true
+[gpg]
+        program = /usr/bin/gpg
+[pull]
+        rebase = false
