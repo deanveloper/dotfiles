@@ -1,7 +1,16 @@
 [user]
-	email = dean@deanveloper.com
-	name = Dean Bassett
+        email = dean@dbassett.dev
+        name = dean
+        signingkey = DB8AF84A
 
 
 [push]
-	default = simple
+        default = simple
+[init]
+        defaultBranch = main
+[commit]
+        gpgsign = true
+[gpg]
+        program = /usr/bin/gpg
+[pull]
+        rebase = false
